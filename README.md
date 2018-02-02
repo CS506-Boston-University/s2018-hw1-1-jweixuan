@@ -8,4 +8,4 @@ Your information will be stored in a panda dataframe and will be used in order t
 
 U21972360
 
-Contributor: Chenyang Yu, Chih Wei Tong, Tong Ye
+Contributor: Chenyang Yu, Chih Wei Tung, Tong Ye
